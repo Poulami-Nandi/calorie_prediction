@@ -110,7 +110,7 @@ Upload this file to the Kaggle competition page to receive your score.
 
 ## 👩‍💻 Author
 
-**Poulami Nandi**  
+**Dr. Poulami Nandi**  
 <img src="https://github.com/Poulami-Nandi/IV_surface_analyzer/raw/main/images/own/own_image.jpg" alt="Profile" width="150"/>   
 Postdoctoral Researcher | Machine Learning Engineer | Quantitative Analyst  
 📍 Based in USA | UPenn, Ex-IIT Kanpur, IIT GN, TU Wien, UC Davis  
