@@ -24,7 +24,7 @@ The task is to predict the total **calories burned**, a continuous target variab
 │   ├── test.csv
 │   └── sample_submission.csv
 ├── notebooks/
-│   └── eda_model_shap.ipynb         # End-to-end solution: EDA → ML → SHAP → Submission
+│   └── calorie_expenditure.ipynb    # End-to-end solution: EDA → ML → SHAP → Submission
 ├── outputs/
 │   └── submission.csv               # Final predictions for Kaggle
 ├── images/
