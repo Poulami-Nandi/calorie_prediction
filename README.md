@@ -43,7 +43,7 @@ The task is to predict the total **calories burned**, a continuous target variab
 - 🔁 **Cross-validation** using K-Fold strategy (configurable)
 - 🔧 **Baseline Models**: Linear Regression, Random Forest, XGBoost
 - 🧪 **Hyperparameter Tuning** with `GridSearchCV`
-- 📤 **Prediction & Submission** pipeline (submission.csv ready)
+- 📤 **Prediction & Submission** Using XGBoost & submission.csv ready
 - 🧠 **Model Explainability** via SHAP summary and force plots
 - 📸 **Static image exports** of SHAP for GitHub and reporting
 
@@ -51,11 +51,11 @@ The task is to predict the total **calories burned**, a continuous target variab
 
 ## 📈 Cross-Validation RMSE Results
 
-| Model             | CV RMSE (log target) |
-|------------------|----------------------|
-| Linear Regression| ~52.3                |
-| Random Forest    | ~40.7                |
-| XGBoost (Tuned)  | ~38.5 ✅             |
+| Model                 | CV RMSE (log target) |
+|-----------------------|----------------------|
+| Linear Regression     | 18.0383              |
+| Random Forest (Tuned) | 5.5205               |
+| XGBoost (Tuned)       | 3.8308 ✅            |
 
 > *Note: Results may vary depending on train/validation split and random seeds.*
 
