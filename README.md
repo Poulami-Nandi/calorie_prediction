@@ -111,7 +111,7 @@ Upload this file to the Kaggle competition page to receive your score.
 ## 👩‍💻 Author
 
 **Poulami Nandi**  
-<img src="https://github.com/Poulami-Nandi/IV_surface_analyzer/raw/main/images/own/own_image.jpg" alt="Profile" width="150"/>
+<img src="https://github.com/Poulami-Nandi/IV_surface_analyzer/raw/main/images/own/own_image.jpg" alt="Profile" width="150"/>   
 Postdoctoral Researcher | Machine Learning Engineer | Quantitative Analyst  
 📍 Based in USA | UPenn, Ex-IIT Kanpur, IIT GN, TU Wien, UC Davis  
 [University of Pennsylvania](https://live-sas-physics.pantheon.sas.upenn.edu/people/poulami-nandi) | [IIT Kanpur](https://www.iitk.ac.in/) | [TU Wien](http://www.itp.tuwien.ac.at/CPT/index.htm?date=201838&cats=xbrbknmztwd)
